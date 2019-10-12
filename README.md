@@ -14,4 +14,4 @@
   * this is for learning porpuses, read source code for more.
   
   -- Have fun using my software
-  Menu Screenshot: ![alt text](https://imgur.com/EMatCSy.jpg)
+ //  Menu Screenshot: ![alt text](https://imgur.com/EMatCSy.jpg)
