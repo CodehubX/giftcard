@@ -1,7 +1,17 @@
+> Functions:
+ - Giftcard generating.
+   * Netflix giftcards.
+   * discord giftcards.
 
->> What is keyfun
-   * Keyfun is a software written in visual basic. It is able to generate Netflix gift cards and also it can generate discord nitro gifts.
+> Overlay
+  * keyfun is has simple console overlay.
+  * good text formatting.
+  * simple 2 use and understand able for anyone!
+  * New Project 
 
->> Information
-   * I wrote this software with many thoughts and learning porpuses. I commented all the steps and i think the code is as clean as possible in my opinion. ofcourse there might be too many comments but its better than not knowing whats going on.
-   
+> external information
+  * I have commented everything in the source code you need to know.
+  * this is for learning porpuses, read source code for more.
+  
+  -- Have fun using my software
+  Menu Screenshot: ![alt text](https://imgur.com/EMatCSy.jpg)
