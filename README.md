@@ -4,7 +4,7 @@
    * discord giftcards.
 
 > Overlay
-  * keyfun is has simple console overlay.
+  * keyfun has a simple console overlay.
   * good text formatting.
   * simple 2 use and understand able for anyone!
 
